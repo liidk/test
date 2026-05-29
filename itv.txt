@@ -131,7 +131,7 @@ http://101.34.236.223:1112/952383261
 http://101.34.236.223:1112/644368714
 #EXTINF:-1,CHC家庭影院
 http://101.34.236.223:1112/644368373
-#EXTINF:-1,和美乡途轮播台
-http://101.34.236.223:1112/713591450
+#EXTINF:-1,美亚电影
+https://live.catvod.com/live.php?id=meiyamovie_twn
 #EXTINF:-1,凤凰电影
 http://221.7.175.154:8445/tsfile/live/1022_1.m3u8?key=txiptv

@@ -128,7 +128,7 @@ http://101.34.236.223:1112/619495952
 #EXTINF:-1,CHC影迷电影
 http://101.34.236.223:1112/952383261
 #EXTINF:-1,CHC动作电影
-http://27.223.170.7:4000/udp/239.253.254.153:8000
+https://live.264788.xyz/channel/chcdongzuodianying?streamid=87c13b6e841ed5039d4c2ce8f266f9ef&livekey=01Wb7kjxu1xx2f7s4uEtWDnhgEQQECTlBWih6
 #EXTINF:-1,CHC家庭影院
 https://live.264788.xyz/channel/chcjiatingyingyuan?streamid=136f530a61d26dc0f670f39f05291586&livekey=01Wb7kjxu1xx2f7s4uEtWDnhgEQQECTlBWih6
 #EXTINF:-1,美亚电影

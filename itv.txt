@@ -130,7 +130,7 @@ http://101.34.236.223:1112/952383261
 #EXTINF:-1,CHC动作电影
 http://27.223.170.7:4000/udp/239.253.254.153:8000
 #EXTINF:-1,CHC家庭影院
-http://27.11.194.174:8003/
+https://live.264788.xyz/channel/chcjiatingyingyuan?streamid=136f530a61d26dc0f670f39f05291586&livekey=01Wb7kjxu1xx2f7s4uEtWDnhgEQQECTlBWih6
 #EXTINF:-1,美亚电影
 https://test.946985.filegear-sg.me/proxy/bdc068338650cbe8
 #EXTINF:-1,凤凰电影
